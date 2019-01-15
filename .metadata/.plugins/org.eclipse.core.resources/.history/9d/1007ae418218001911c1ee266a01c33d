@@ -1,0 +1,9 @@
+
+public class Balanced 
+{
+	public boolean balanced(String name){
+		
+		
+		return true;
+	}
+}

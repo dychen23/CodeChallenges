@@ -1,0 +1,20 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class balanced {
+	
+	public  boolean perfectlyBalanced(String name){
+		
+	Map<Character,Integer> map = new HashMap<>();
+	
+	map.put('x',0);
+	map.put('y',0);
+	
+	for(int i =0; i<name.length(); i++){
+			if(name.charAt(i)){
+				
+			}
+	}
+		return true;
+	}
+}

@@ -1,0 +1,13 @@
+
+public class Main {
+	
+	public static boolean balanced(String name){
+		
+		
+		return true;
+	}
+	public static void main(String[] args) 
+	{
+		System.out.println(balanced("asd"));
+	}
+}

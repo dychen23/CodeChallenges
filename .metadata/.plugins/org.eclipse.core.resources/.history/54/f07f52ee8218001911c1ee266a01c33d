@@ -1,0 +1,13 @@
+import java.util.Map;
+
+public class balanced {
+	
+	public  boolean perfectlyBalanced(String name){
+		
+	Map<String,Integer> map = new Map<String,Integer>;
+	
+	map.put("x",0);
+	
+		return true;
+	}
+}

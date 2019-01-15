@@ -1,0 +1,14 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class balanced {
+	
+	public  boolean perfectlyBalanced(String name){
+		
+	Map<String,Integer> map = new HashMap<>();
+	
+	map.put("x",0);
+	map.put("y",0);
+		return true;
+	}
+}

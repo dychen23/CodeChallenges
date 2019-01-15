@@ -1,0 +1,9 @@
+
+public class balanced {
+	
+	public  boolean perfectlyBalanced(String name){
+		
+	Map<char,int> map	
+		return true;
+	}
+}
