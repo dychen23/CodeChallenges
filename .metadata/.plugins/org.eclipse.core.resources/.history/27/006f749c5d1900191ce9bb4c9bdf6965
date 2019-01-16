@@ -1,0 +1,14 @@
+package isPalindrome;
+
+import org.junit.Test;
+
+public class isPalindromeTest {
+
+	@Test
+	public void test() {
+		isPalindrome tester = new isPalindrome();
+		
+		tester.isPalindrome
+	}
+
+}

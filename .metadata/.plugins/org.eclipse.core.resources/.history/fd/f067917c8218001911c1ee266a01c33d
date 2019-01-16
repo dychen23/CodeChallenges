@@ -1,8 +1,0 @@
-
-public class balanced {
-	
-	public  boolean balanced(String name){
-		
-		return true;
-	}
-}

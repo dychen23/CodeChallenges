@@ -1,0 +1,13 @@
+package isPalindrome;
+
+public class isPalindrome 
+{
+	public static boolean isPalindrome(){
+			
+		return true;
+	}
+	public static void main(String[] args) 
+	{
+		
+	}
+}

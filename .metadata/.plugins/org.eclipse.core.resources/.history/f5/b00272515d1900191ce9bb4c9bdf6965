@@ -1,0 +1,10 @@
+package isPalindrome;
+
+public class isPalindromeTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

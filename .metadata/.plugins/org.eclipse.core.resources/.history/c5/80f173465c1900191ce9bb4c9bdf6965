@@ -1,0 +1,22 @@
+package isPalindrome;
+
+public class isPalindrome 
+{
+	public static boolean isPalindrome(String s){
+
+		if(s.length()%2==0){
+			return false;
+		}
+	
+		for(){
+				
+		}
+		
+		return true;
+	}
+	
+	public static void main(String[] args) 
+	{
+		
+	}
+}

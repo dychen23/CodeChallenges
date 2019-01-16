@@ -1,0 +1,18 @@
+package isPalindrome;
+
+public class isPalindrome 
+{
+	public static boolean isPalindrome(String s){
+		
+		boolean isPalindrome
+		int length = s.length();
+		
+		
+		return true;
+	}
+	
+	public static void main(String[] args) 
+	{
+		
+	}
+}
