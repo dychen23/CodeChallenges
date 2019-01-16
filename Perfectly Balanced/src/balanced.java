@@ -4,7 +4,7 @@ import java.util.Map;
 public class balanced {
 	
 	//function verifying the balance of 'x' and 'y' only
-	public  boolean perfectlyBalanced(String name){
+	public  boolean isBalanced(String name){
 		
 	Map<Character,Integer> map = new HashMap<>();
 	
@@ -25,6 +25,7 @@ public class balanced {
 				map.put('y',county+1);
 			}
 	}
-		return map.get('x') == map.get('y');
+	
+	return map.get('x') == map.get('y');
 	}
 }
