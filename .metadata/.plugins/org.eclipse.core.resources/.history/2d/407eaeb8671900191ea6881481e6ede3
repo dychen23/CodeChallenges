@@ -15,6 +15,6 @@ public class isPalindromeTest {
 		
 		assertFalse(tester.isPalindrome("123"));
 		assertFalse(tester.isPalindrome(""));
-		assertFalse(tester.isPalindrome("testertesterstsetsetsetsetes"));
+		assertFalse(tester.isPalindrome(""));
 	}
 }
