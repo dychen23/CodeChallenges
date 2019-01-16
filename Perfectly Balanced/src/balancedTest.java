@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class perfectlybalancedtest {
+public class balancedTest {
 
 	@Test
 	public void test() {
@@ -18,5 +18,4 @@ public class perfectlybalancedtest {
 		assertTrue(b.isBalanced(""));
 		assertTrue(b.isBalanced("x"));
 	}
-
 }
